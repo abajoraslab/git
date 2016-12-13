@@ -1,2 +1,7 @@
 print("Goodby world;")
+<<<<<<< HEAD
 print("Goodby")finish
+=======
+print("Goodby;")
+print("Hello;")
+>>>>>>> master
